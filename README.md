@@ -4,3 +4,4 @@
 ## https://github.com/bailicangdu/react-pxq 暴露官方脚手架配置搭建的移动端react开发环境 （适配处理，自己写弹框侧边栏，没有使用第三方ui框架）
 ## https://github.com/bailicangdu/vue2-elm 仿饿了么vue应用
 ## https://github.com/colorhook/crossdomain.git 跨域的方法总结
+## http://huziketang.mangojuice.top/books/react/ React.js 小书（react基本原理，redux、react-redux基本原理）
